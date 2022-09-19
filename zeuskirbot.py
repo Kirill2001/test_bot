@@ -113,7 +113,7 @@ def callback_inline(call):
             
             
 
-            # remove inline buttons
+            
             
 
             # show alert
